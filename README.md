@@ -38,7 +38,7 @@ Create a .env file with the following structure:
 
 .env:
 
-BEARER_TOKEN=your_bearer_token
+BEARER_TOKEN=your_bearer_token/n
 API_KEY=your_api_key
 API_SECRET=your_api_secret
 ACCESS_TOKEN=your_access_token
