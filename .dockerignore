@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+.env
+final/
+*.sqlite
+*.db
+.ipynb_checkpoints

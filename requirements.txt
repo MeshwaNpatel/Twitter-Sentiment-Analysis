@@ -1,0 +1,13 @@
+tweepy
+pandas
+numpy
+textblob
+scikit-learn
+transformers
+torch
+matplotlib
+seaborn
+wordcloud
+plotly
+python-dotenv
+streamlit
