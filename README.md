@@ -38,12 +38,12 @@ Create a .env file with the following structure:
 
 .env:
 
-EARER_TOKEN=your_bearer_token
-API_KEY=your_api_key
-API_SECRET=your_api_secret
-ACCESS_TOKEN=your_access_token
-ACCESS_TOKEN_SECRET=your_access_token_secret
-HF_TOKEN=your_huggingface_token
+- EARER_TOKEN=your_bearer_token
+- API_KEY=your_api_key
+- API_SECRET=your_api_secret
+- ACCESS_TOKEN=your_access_token
+- ACCESS_TOKEN_SECRET=your_access_token_secret
+- HF_TOKEN=your_huggingface_token
 
 
 ### 2. Install dependencies (if running locally):
