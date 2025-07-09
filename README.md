@@ -30,24 +30,6 @@ A full-stack sentiment analysis project that fetches real-time tweets using the 
 
 ---
 
-## 📂 Project Structure
-
-
-📦 TwitterSentimentAnalysis/
-├── DataCollection.py
-├── DataPreprocessing.py
-├── SentimentAnalysis.py
-├── Visualization_and_analysis.py
-├── main.py
-├── streamlit.py
-├── .env
-├── requirements.txt
-├── Dockerfile
-├── docker-compose.yml
-└── README.md
-
-
-
 ## ⚙️ Setup Instructions
 
 ### 1. Add your Twitter and Hugging Face credentials
