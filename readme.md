@@ -1,22 +1,22 @@
-# 🐦 Twitter Sentiment Analysis Tool
+# Twitter Sentiment Analysis Tool
 
 A full-stack sentiment analysis project that fetches real-time tweets using the Twitter API, classifies them using NLP models, and displays the results in an interactive dashboard powered by Streamlit.
 
 ---
 
-## 🚀 Features
+## Features
 
-- 🔍 Collect real-time tweets via Twitter API
-- 🧹 Clean and preprocess tweets using NLP techniques
-- 🤖 Analyze sentiments using TextBlob and Hugging Face RoBERTa
-- 📊 Interactive charts and visualizations (Pie, Bar, Histogram)
-- 📝 Sample tweet viewer by sentiment category
-- 💾 Export data as CSV and summary as JSON
-- 🐳 Dockerized for easy deployment
+- Collect real-time tweets via Twitter API
+- Clean and preprocess tweets using NLP techniques
+- Analyze sentiments using TextBlob and Hugging Face RoBERTa
+- Interactive charts and visualizations (Pie, Bar, Histogram)
+- Sample tweet viewer by sentiment category
+- Export data as CSV and summary as JSON
+- Dockerized for easy deployment
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 | Technology     | Purpose                                 |
 |----------------|-----------------------------------------|
@@ -32,10 +32,10 @@ A full-stack sentiment analysis project that fetches real-time tweets using the 
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
-📦 TwitterSentimentAnalysis/
+TwitterSentimentAnalysis/
 ├── DataCollection.py
 ├── DataPreprocessing.py
 ├── SentimentAnalysis.py
@@ -80,7 +80,7 @@ streamlit run streamlit.py
 
 ---
 
-## 🐳 Running with Docker
+## Running with Docker
 
 To run the app inside a Docker container:
 
@@ -92,7 +92,7 @@ To run the app inside a Docker container:
 docker-compose up --build
 ```
 
-## 🧠 Future Enhancements
+## Future Enhancements
 
 - Real-time tweet streaming
 - Support for multiple languages
@@ -100,7 +100,7 @@ docker-compose up --build
 - Save outputs to a database
 
 
-## 🙌 Acknowledgments
+## Acknowledgments
 
 - Hugging Face Transformers
 - Streamlit Community
