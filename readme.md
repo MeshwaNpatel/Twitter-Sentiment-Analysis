@@ -51,7 +51,7 @@ TwitterSentimentAnalysis/
 
 ---
 
-## ⚙️ Setup Instructions
+## Setup Instructions
 
 ### 1. Add your Twitter and Hugging Face credentials
 
